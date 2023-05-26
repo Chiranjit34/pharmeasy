@@ -1,6 +1,3 @@
-# pharmeasy
-It is a consumer healthcare “super app” that provides consumers with on-demand, home delivered access to a wide range of prescription, and consumer healthcare products, comprehensive diagnostic test services.
-
 
 # Clonning of pharmeasy.com
 
